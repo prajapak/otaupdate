@@ -1,7 +1,5 @@
 {
-    "type": "slcb_2ch",
-    "version": 1.1,
-    "host": "https://raw.githubusercontent.com/prajapak/otaupdate/main",
-    "port": 443,
-    "bin": "/esp-http-client-example.bin"
+    "version": "slcb_2ch_v1.1",
+    "server": "https://raw.githubusercontent.com/prajapak/otaupdate/main/",
+    "file": "esp-http-client-example.bin"
 }
