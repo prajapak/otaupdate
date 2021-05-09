@@ -3,5 +3,5 @@
     "version": 2,
     "host": "https://raw.githubusercontent.com/prajapak/otaupdate/main",
     "port": 443,
-    "bin": "/advanced_https_ota.bin"
+    "bin": "/esp-http-client-example.bin"
 }
