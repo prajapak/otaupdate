@@ -1,5 +1,5 @@
 {
-    "version": "slcb_2ch_v1.1",
+    "version": "slcb_2ch_v1.0",
     "server": "https://raw.githubusercontent.com/prajapak/otaupdate/main/",
-    "file": "esp-http-client-example.bin"
+    "file": "SLCB.bin"
 }
