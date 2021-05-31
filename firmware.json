@@ -1,5 +1,5 @@
 {
-    "version": "apcb_2ch_v1.1",
+    "version": "v1.1",
     "server": "https://raw.githubusercontent.com/prajapak/otaupdate/main/",
-    "file": "SLCB.bin"
+    "file": "apcp_2ch.bin"
 }
